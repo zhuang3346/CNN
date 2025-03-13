@@ -6,7 +6,7 @@ EDA二轮考核
 
 ---
 
-### **1. 模型结构回顾**
+### **1. 模型结构**
 在 `CNNModel` 类中，模型的结构如下：
 ```python
 self.conv1 = nn.Conv2d(inputChannels, 32, kernel_size=3)  # 第一层卷积
