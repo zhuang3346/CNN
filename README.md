@@ -58,5 +58,5 @@ pytorch环境（已安装pytorch geometric），cuda
 
 在分支run_output中查看
 
-
+https://github.com/zhuang3346/CNN/tree/run_output
 
